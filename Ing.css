@@ -1,0 +1,59 @@
+.input2[type="number"]{
+   padding-bottom: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-right: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: black;
+    border:none;
+    color: red;
+    
+    font-size: 15px;
+    min-width: 6%;
+    text-decoration:none;
+    margin: 12px 2px;
+    cursor: pointer;
+     
+    
+}
+.input3[type="submit"]{
+   padding-bottom: 5%;
+    margin-bottom: 5%;
+    margin-top: 0%;
+    padding-top: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: red;
+    border:none;
+    color: white;
+    border-radius: 50%;
+    font-size: 15px;
+    min-width: 6%;
+    text-decoration:none;
+    margin: 12px 2px;
+    cursor: pointer;
+     
+    
+}
+.input4[type="textfield"]{
+   padding-bottom: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-right: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: black;
+    border:none;
+    color: red;
+    
+    font-size: 15px;
+    min-width: 6%;
+    text-decoration:none;
+    margin: 12px 2px;
+    cursor: pointer;
+    
+}
